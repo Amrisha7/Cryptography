@@ -13,6 +13,16 @@ This repository contains the source code of **Encrypted and Unencrypted chatting
 ## GUI [GRAPHICAL USER INTERFACE FOR ENCRYPTION AND DECRYPTION]: 
 
 ## Demo
+1) 1st click on the text field of "Message" button and type the message.
+2) Type the key and its the password for decoding so keep it in mind.
+3) Select the mode as "e" for encryption and "d" for decryption, for this case type "e".
+4) Then click on the "Show Message" button.
+5) In the text field of Result a "Cipher Text" will be generated, copy that and click on the "Reset" button.
+6) Now in the place of "Message" button paste the Cipher Text.
+7) Type the key inputted before.
+8) For this time the mode will be "d", type that and click on "Show Message" button.
+9) You can view the normal text in the text field of "Result".
+10) You can click "Exit" button as well as can continue with the process.
 
 ![Screenshot (470)](https://github.com/Amrisha7/Cryptography/assets/136724257/f19f4dbf-1875-48ba-90a1-e92d21fc2772)
 
