@@ -14,7 +14,7 @@ This repository contains the source code of **Encrypted and Unencrypted chatting
 
 ## Demo
 
-![Screenshot (470)](https://github.com/Amrisha7/Cryptography/assets/136724257/363b9aa7-8453-470b-8806-7a41479f3d70)
+![Screenshot (470)](https://github.com/Amrisha7/Cryptography/assets/136724257/f19f4dbf-1875-48ba-90a1-e92d21fc2772)
 
 ## Features
 
